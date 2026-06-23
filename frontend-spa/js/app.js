@@ -32,7 +32,6 @@ template: `
         <!-- Sidebar -->
 
         <div
-            v-if="isLogin"
             class="w-64 bg-slate-800 min-h-screen text-white">
 
             <div class="p-5 border-b border-slate-700">
