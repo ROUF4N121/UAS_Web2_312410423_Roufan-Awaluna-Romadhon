@@ -343,6 +343,11 @@ Halaman Login
 
 ![](image/screenshot3.png)
 
+Note:
+
+Username: admin
+Password: admin123
+
 Halaman Dashboard
 
 ![](image/screenshot4.png)
@@ -372,5 +377,14 @@ Tampilan Logout
 ### Link Video
 
 https://youtu.be/rofuiDZfSBo
+
+### Link Aplikasi Website
+
+https://ropane-inventoryuas.my.id/#/
+
+Note:
+
+Username: admin
+Password: admin123
 
 ---
