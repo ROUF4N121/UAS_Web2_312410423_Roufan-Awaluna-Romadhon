@@ -1,7 +1,7 @@
 # UAS_Web2_312410423_Roufan-Awaluna-Romadhon
 
 - Nama : Roufan Awaluna Romadhon
-- NIM : 31240423
+- NIM : 312410423
 - Kelas : I241C
 
 ---
